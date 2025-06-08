@@ -23,9 +23,9 @@
 
 - 🌱 Estoy aprendiendo nuevas herramientas y buenas prácticas para un desarrollo más eficiente
 
-- ☁️ Me interesa mucho la **todo el desarrollo web**
+- ☁️ Me interesa mucho **todo lo relacionado con el desarrollo web**
 
-- 📝 A veces comparto ideas o consejos en **mi blog o con compañeros de equipo**
+- 📝 A veces comparto ideas o consejos en **mi perfoñ o con mis compañeros de equipo**
 
 - 💬 Pregúntame sobre **control de versiones, scripting o desarrollo full-stack**
 
