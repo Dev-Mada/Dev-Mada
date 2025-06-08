@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/BHrP58Z.png" height=50>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Mada</h1></summary>
