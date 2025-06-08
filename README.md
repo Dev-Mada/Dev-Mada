@@ -11,8 +11,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://imgur.com/a/82vinUo"
+       alt="logo-mada" /></a>
 </div>
 
 
