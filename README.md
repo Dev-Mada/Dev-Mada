@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/BHrP58Z.png" height=25>
+<img src="https://i.imgur.com/BHrP58Z.png" height=50>
 
 <div id="user-content-toc">
   <ul align="center">
