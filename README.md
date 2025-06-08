@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/82vinUo">
+<img src="https://i.imgur.com/BHrP58Z.png">
 
 <div id="user-content-toc">
   <ul align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
   <img  src="https://i.imgur.com/BHrP58Z.png"
-       alt="logo-mada" height=50 /></a>
+       alt="logo-mada" height=100 /></a>
 </div>
 
 
@@ -33,7 +33,7 @@
 
 - 📫 Puedes contactarme en **kyznncontact@gmail.com**
 
-- 🏠 También puedes saludarme por Discord: [tuusuario](https://discordapp.com/users/541625502121590798)
+- 🏠 También puedes saludarme por Discord: [elmada](https://discordapp.com/users/541625502121590798)
 
 
 
