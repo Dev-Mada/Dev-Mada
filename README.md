@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://imgur.com/a/82vinUo"
+  <img  src="https://i.imgur.com/BHrP58Z.png"
        alt="logo-mada" /></a>
 </div>
 
