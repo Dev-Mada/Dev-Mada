@@ -25,8 +25,6 @@
 
 - ☁️ Me interesa mucho **todo lo relacionado con el desarrollo web**
 
-- 📝 A veces comparto ideas o consejos en **mi perfoñ o con mis compañeros de equipo**
-
 - 💬 Pregúntame sobre **control de versiones, scripting o desarrollo full-stack**
 
 - 📫 Puedes contactarme en **kyznncontact@gmail.com**
