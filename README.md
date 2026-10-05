@@ -1,38 +1,3 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Mada</h1></summary>
-  </ul>
-</div>
-
-
-
-<div align="center">
-  <img  src="https://i.imgur.com/BHrP58Z.png"
-       alt="logo-mada" height=100 /></a>
-</div>
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">La programación es un aprendizaje constante 📕</h2></summary>
-  </ul>
-</div>
-
-- 🔭 Actualmente estoy trabajando en **proyectos de software personales y colaborativos**
-
-- 🌱 Estoy aprendiendo nuevas herramientas y buenas prácticas para un desarrollo más eficiente
-
-- ☁️ Me interesa mucho **todo lo relacionado con el desarrollo web**
-
-- 💬 Pregúntame sobre **control de versiones, scripting o desarrollo full-stack**
-
-- 📫 Puedes contactarme en **kyznncontact@gmail.com**
-
-- 🏠 También puedes saludarme por Discord: [elmada](https://discordapp.com/users/541625502121590798)
-
-
-
 <p align="center">
   
 <table align="center">
